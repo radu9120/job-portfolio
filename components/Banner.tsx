@@ -13,12 +13,12 @@ const Banner = () => {
           <Image src="/Me.png" height={300} width={300} alt="Dumitru Radu" />
         </div>
 
-        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1  transition  hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text  hover:bg-gradient-to-r from-purple-500 to-orange-400 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
+        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1  transition  hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text  hover:bg-gradient-to-r from-teal-700 to-emerald-400 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
           Dumitru Radu!
         </div>
         <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
           Code Relax{" "}
-          <span className="text-transparent font-semibold  bg-clip-text bg-gradient-to-r from-purple-500 to-orange-400">
+          <span className="text-transparent font-semibold  bg-clip-text bg-gradient-to-r from-green-400 to-teal-800">
             Repeat
           </span>{" "}
           💪🏼

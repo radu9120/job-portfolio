@@ -6,7 +6,7 @@ const Experience = () => {
       <h1 className="text-white font-semibold text-center text-6xl   pt-[35px]">
         EXPERIENCE
       </h1>
-      <p className=" tracking-[0.5em] text-center text-transparent font-semi-bold pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500  text-1xl ">
+      <p className=" tracking-[0.5em] text-center text-transparent font-semi-bold pb-5  bg-clip-text bg-gradient-to-r from-teal-700 to-emerald-500  text-1xl ">
         EXPLORE NOW
       </p>
       <div className=" container mx-auto 2xl ">
