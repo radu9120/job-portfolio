@@ -24,9 +24,9 @@ const About = () => {
           with TypeScript and Prisma.
           <br />
           <br />
-          Whenever I'm not coding, I make it a point to explore the boundless
-          beauty of nature or sweat it out at the gym, striving to become the
-          best version of myself.💪🏼
+          Whenever I&apos;m not coding, I make it a point to explore the
+          boundless beauty of nature or sweat it out at the gym, striving to
+          become the best version of myself.💪🏼
         </p>
       </div>
     </section>
