@@ -27,9 +27,11 @@ const Experience = () => {
         <p className="text-gray-300 pt-5">
           I currently work as the Lead Web Developer, where I am responsible for
           end-to-end development, launch, and continuous refinement of
-          PEN&lsquo;s websites. I have led efforts to guarantee exceptional
-          functionality, optimal load times, and a top-tier user experience,
-          ensuring website security and data integrity.
+          PEN&lsquo;s websites. I lead a team of developers to ensure optimal
+          functionality, load times, and user experience while maintaining
+          security and data integrity. Working with designers, we create
+          visually appealing and user-friendly websites that meet high standards
+          of performance and aesthetics.
           <br />
           <br />
           My role also involves leading content lifecycle management,
