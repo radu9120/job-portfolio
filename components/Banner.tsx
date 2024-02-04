@@ -2,8 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import { BsArrowRight, BsLinkedin } from "react-icons/bs";
-import { FaGithubSquare } from "react-icons/fa";
+
 import { HiDownload } from "react-icons/hi";
 const Banner = () => {
   return (
@@ -13,7 +12,7 @@ const Banner = () => {
           <Image src="/Me.png" height={300} width={300} alt="Dumitru Radu" />
         </div>
 
-        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1  transition  hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text  hover:bg-gradient-to-r from-teal-700 to-emerald-400 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
+        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1  transition  hover:scale-110  ease-in-out hover:text-transparent bg-clip-text  hover:bg-gradient-to-r from-teal-700 to-emerald-400 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
           Dumitru Radu!
         </div>
         <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
@@ -36,7 +35,7 @@ const Banner = () => {
           </button>
           <a
             className="group ml-8 bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white"
-            href="/CV.pdf"
+            href="https://drive.google.com/drive/folders/1YuBWaq-m0Z_yd--TvzugMSp2ZKmo6Ihs?usp=sharing"
             download
           >
             Download CV{" "}

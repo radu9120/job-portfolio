@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Dumitru | Personal Portfolio",
   description:
-    "Dumitru is a full-stack developer with more than 2 years of experience.",
+    "Dumitru Radu a full-stack developer specializing in Next.js, React, and Node.js. ",
 };
 
 export default function RootLayout({
