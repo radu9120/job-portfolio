@@ -36,6 +36,7 @@ export const projectsData = [
       "A collection of reusable components for React. It has components like buttons, modals, and form inputs.",
     tags: ["React", "Next.js", "Figma", "Tailwind"],
     imageUrl: covo,
+    href: "https://www.covo-components.co.uk/",
   },
   {
     title: "Lucid Board",
@@ -52,6 +53,7 @@ export const projectsData = [
       "Clerk Auth",
     ],
     imageUrl: lucid,
+    href: "https://next13-lucid-master-black.vercel.app/",
   },
   {
     title: "BBY London Clinic",
@@ -59,5 +61,6 @@ export const projectsData = [
       "A website for a private clinic in London. It has features like booking appointments, and a blog.",
     tags: ["React", "Next.js", "Figma", "Tailwind", "Framer"],
     imageUrl: bby,
+    href: "https://www.bbylondonclinic.co.uk/",
   },
 ] as const;
