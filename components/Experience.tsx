@@ -36,7 +36,7 @@ const Experience = () => {
           collaborating with cross-functional teams, and forging strong
           partnerships with the marketing team to implement effective digital
           campaigns. I aim to set new standards in digital user experience
-          aligned with PEN's strategic goals by conducting comprehensive
+          aligned with PEN&lsquo;s strategic goals by conducting comprehensive
           competitor analysis and injecting creativity and innovation into web
           development processes.
         </p>
