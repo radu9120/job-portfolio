@@ -26,10 +26,10 @@ const Experience = () => {
         </div>
         <p className="text-gray-300 pt-5">
           I currently work as the Lead Web Developer, where I am responsible for
-          end-to-end development, launch, and continuous refinement of PEN's
-          websites. I have led efforts to guarantee exceptional functionality,
-          optimal load times, and a top-tier user experience, ensuring website
-          security and data integrity.
+          end-to-end development, launch, and continuous refinement of
+          PEN&lsquo;s websites. I have led efforts to guarantee exceptional
+          functionality, optimal load times, and a top-tier user experience,
+          ensuring website security and data integrity.
           <br />
           <br />
           My role also involves leading content lifecycle management,
